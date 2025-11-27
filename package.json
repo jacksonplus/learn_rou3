@@ -1,0 +1,19 @@
+{
+  "name": "learn_rou3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "dev": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rou3": "^0.7.10"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.14"
+  }
+}
